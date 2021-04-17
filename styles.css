@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Open sans";
+}
+.content {
+    border: none;
+    margin: 50px auto;
+    width: 50%;
+    display: flex;
+    box-shadow: 1px 1px 2px 2px #e2e4e3;
+}
+.left-content {
+    background-color: #003c72;
+    color: white;
+}
+h2 {
+    font-size: 35px;
+    margin: 10px;
+}
+.intro {
+    font-weight: lighter;
+    margin: 10px;
+    font-size: 18px;
+}
+.sub-heading {
+    background-color: #00315c;
+    margin: 0px;
+    padding: 0px 2px !important;
+}
+.contact-details {
+    margin: 10px;
+    font-weight: bold;
+}
+.contact-info {
+    margin: 10px;
+}
+.skills {
+    margin: 10px;
+}
+.status {
+    color: #003c72;
+    margin: 10px;
+    padding: 8px;
+    border-top: 1px solid #e2e4e3;
+    border-bottom: 1px solid #e2e4e3;  
+}
+.description {
+    color: grey;
+}
+.header {
+    margin: 10px;
+}
+span {
+    margin-left: 12px;
+    width: 80px;
+    display: inline-block;
+}
+.first-status {
+    margin-left: 200px;
+    margin-top: -60px;
+    width: 400px;
+}
+.style {
+    font-style: italic;
+}
